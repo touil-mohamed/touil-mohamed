@@ -2,7 +2,7 @@
   <h3 align="center">I'm an Apprentice Full Stack developper from France</h3>
   
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touil-mohamedryo-ma&theme=onedark" alt="touil-mohamed" /></a> </p> 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=touil-mohamed" alt="touil-mohamed" /></a> </p> 
 
 
   
